@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 # make a plot by varying the number of threads and the size of the array
-SIZE_ARRAY = [ 10000, 100000, 1000000, 10000000]
+SIZE_ARRAY = [ 10000, 100000, 1000000, 10000000, 100000000]
 THREADS_ARRAY = [1, 2, 4, 8, 16, 32]
 
 EXEC_PATH_OPENMP= "cmake-build-debug/tp3_openmp"
@@ -8,7 +8,6 @@ EXEC_PATH_NO_OPENMP= "cmake-build-debug/tp3"
 
 # run with subprocess
 import subprocess
-from pathlib import Path
 
 
 def run_solver(exec_path: str, size: int, threads: int ) -> float:
