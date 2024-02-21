@@ -1,0 +1,11 @@
+
+m	cpp:S5276"Limplicit conversion from 'unsigned long long' to 'double' may lose precision(•ëıÿÿÿÿÿ8±ö”ØÜ1
+B	cpp:S5421"!Global variables should be const.(úŞ«Ÿÿÿÿÿÿ8à­ØÜ1
+H	cpp:S5827"'Replace the redundant type with "auto".(•ëıÿÿÿÿÿ8Åö”ØÜ1
+C	cpp:S5827-"'Replace the redundant type with "auto".(â·¡Ë8ÀÍ˜ØÜ1
+H	cpp:S5827."'Replace the redundant type with "auto".(ùæºğşÿÿÿÿ8‰á™ØÜ1
+[	cpp:S50257":Rewrite the code so that you no longer need this "delete".(Ïó«†ÿÿÿÿÿ8¼ı›ØÜ1
+[	cpp:S50258":Rewrite the code so that you no longer need this "delete".(îºèßûÿÿÿÿ8½ı›ØÜ1
+m	cpp:S5025-"QReplace the use of "new" with an operation that automatically manages the memory.(â·¡Ë8ÁÍ˜ØÜ1
+r	cpp:S5025."QReplace the use of "new" with an operation that automatically manages the memory.(ùæºğşÿÿÿÿ8§á™ØÜ1
+K	cpp:S50200"/Replace "rand" with the facilities in <random>.( É”ñ8»ô™ØÜ1
